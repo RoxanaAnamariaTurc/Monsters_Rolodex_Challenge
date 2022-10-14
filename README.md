@@ -1,3 +1,5 @@
+## Monsters Rolodex
+
 ### Project Objectives
 
 This project highligths the importance of React components, how to separate your project into folders and subfolders, how to use props and hooks and the difference between class components and functional components.
